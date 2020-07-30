@@ -1,5 +1,5 @@
 # scraping
-This my project of getting back into coding after months of being absent.
+This project is my way of getting back into coding after months of being absent.
 The aim of this project is to create a web scraper that will interactively scrape sites.
 You give it a site name and it will tack on the http or https as need be and will ask you what kind of content you are looking for.
 if you would like to download pictures or videos, it will create a folder and save the appropriate file type in it.
